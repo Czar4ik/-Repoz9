@@ -396,6 +396,4 @@ void main()
 
 	char stringg[256];
 	a.password(stringg);
-
-
 }
